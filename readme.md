@@ -1,40 +1,33 @@
-If you use this template for research, please [cite it](template_reference.bib):
-> Kedron, P., & Holler, J. (2023). Template for Reproducible and Replicable Research in Human-Environment and Geographical Sciences. https://doi.org/10.17605/OSF.IO/W29MQ
-
-# Title of Study
+# Reproducible Visualization Strategies for Spatially Varying Coefficient (SVC) Models: Incorporating Uncertainty and Assessing Replicability
 
 ## Contributors
 
-- First Name Last Name\*, email address, @githubname, ORCID link, affiliated institution(s)
-- First Name Last Name, email address, @githubname, ORCID link, affiliated institution(s)
+- Victor Irekponor\*, vireks@terpmail.umd.edu, @marquisvictor, [ORCID link](https://orcid.org/0000-0002-4836-7923), University of Maryland, College Park, MD, U.S.A
+
+- Taylor Oshan, toshan@umd.edu, @TaylorOshan, [0000-0002-0537-2941](https://orcid.org/0000-0002-0537-2941), University of Maryland, College Park, MD, U.S.A
 
 \* Corresponding author and creator
 
 ## Abstract
 
-Write a brief abstract about your research project.
-If the project is a reproduction or replication study, include the full citation with a statement
-This study is a *reproduction/replication* of:
+Spatially varying coefficient (SVC) models are often regarded as “big models” due to the extensive volume of outputs that they produce, making it challenging to identify spatial trends across the study area. Maps are therefore commonly used to interpret SVC models, though best practices for visualization are often overlooked and uncertainty ignored, leading to misinterpretation, inconsistencies, and making pattern extraction and comparison challenging. Furthermore, the role of reproducibility and replicability (R&R) in SVC models has received limited attention in the literature. Addressing these gaps requires a structured approach that enhances interpretability, facilitates model comparison, and effectively incorporates model uncertainty when analyzing SVC model output. This study introduces svc-viz, an open-source Python tool that codifies best practices into a standardized framework for interpreting and communicating SVC model results with minimal coding effort. By integrating established visualization principles, svc-viz improves clarity and reduces misinterpretation risks. Additionally, it introduces strategies for visualizing model uncertainty and assessing replicability across datasets, methods, and model inputs. The utility of svc-viz is demonstrated using a 2020 U.S. presidential election dataset. By formalizing visualization strategies, this study advances reproducibility, replicability, and uncertainty consideration in multiscale local modeling, providing researchers with a robust framework for analyzing and communicating spatial relationships.
 
-> citation to prior study
-
-A graphical abstract of the study could also be included as an image here.
 
 ## Study Metadata
 
-- `Key words`: Comma-separated list of keywords (tags) for searchability. Geographers often use one or two keywords each for: theory, geographic context, and methods.
+- `Key words`: Multiscale local modeling, Visualization, Uncertainty, Reproducibility and Replicability
 - `Subject`: select from the [BePress Taxonomy](http://digitalcommons.bepress.com/cgi/viewcontent.cgi?article=1008&context=reference)
-- `Date created`: date when project was started
-- `Date modified`: date of most recent revision
-- `Spatial Coverage`: Specify the geographic extent of your study. This may be a place name and link to a feature in a gazetteer like GeoNames or OpenStreetMap, or a well known text (WKT) representation of a bounding box.
+- `Date created`: 30-04-2025
+- `Date modified`: 02-05-2025
+- `Spatial Coverage`: Contiguous United States
 - `Spatial Resolution`: Specify the spatial resolution as a scale factor, description of the level of detail of each unit of observation (including administrative level of administrative areas), and/or or distance of a raster GRID size
 - `Spatial Reference System`: Specify the geographic or projected coordinate system for the study
 - `Temporal Coverage`: Specify the temporal extent of your study---i.e. the range of time represented by the data observations.
 - `Temporal Resolution`: Specify the temporal resolution of your study---i.e. the duration of time for which each observation represents or the revisit period for repeated observations
-- `Funding Name`: name of funding for the project
-- `Funding Title`: title of project grant
-- `Award info URI`: web address for award information
-- `Award number`: award number
+- `Funding Name`: Methodology, Measuremt & Stats, Human-Envi & Geographical Scis 
+- `Funding Title`: Advancing Methods for Spatial Analysis in Local Modeling
+- `Award info URI`: [web address for award information](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2117455&HistoricalAwards=false)
+- `Award number`: 2117455
 
 ## Related to
 
