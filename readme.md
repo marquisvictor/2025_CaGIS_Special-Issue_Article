@@ -22,7 +22,7 @@ Spatially varying coefficient (SVC) models are often regarded as â€œbig modelsâ€
 - `Spatial Coverage`: Contiguous United States
 - `Spatial Resolution`: Census Tracts
 - `Spatial Reference System`: WGS 84 - EPSG:4326
-- `Funding Name`: Methodology, Measuremt & Stats, Human-Envi & Geographical Scis 
+- `Funding Name`: National Science Foundation (NSF) (Methodology, Measuremt & Stats, Human-Envi & Geographical Scis)
 - `Funding Title`: Advancing Methods for Spatial Analysis in Local Modeling
 - `Award info URI`: [web address for award information](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2117455&HistoricalAwards=false)
 - `Award number`: 2117455
