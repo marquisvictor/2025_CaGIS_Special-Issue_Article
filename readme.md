@@ -13,19 +13,21 @@
 Spatially varying coefficient (SVC) models are often regarded as “big models” due to the extensive volume of outputs that they produce, making it challenging to identify spatial trends across the study area. Maps are therefore commonly used to interpret SVC models, though best practices for visualization are often overlooked and uncertainty ignored, leading to misinterpretation, inconsistencies, and making pattern extraction and comparison challenging. Furthermore, the role of reproducibility and replicability (R&R) in SVC models has received limited attention in the literature. Addressing these gaps requires a structured approach that enhances interpretability, facilitates model comparison, and effectively incorporates model uncertainty when analyzing SVC model output. This study introduces svc-viz, an open-source Python tool that codifies best practices into a standardized framework for interpreting and communicating SVC model results with minimal coding effort. By integrating established visualization principles, svc-viz improves clarity and reduces misinterpretation risks. Additionally, it introduces strategies for visualizing model uncertainty and assessing replicability across datasets, methods, and model inputs. The utility of svc-viz is demonstrated using a 2020 U.S. presidential election dataset. By formalizing visualization strategies, this study advances reproducibility, replicability, and uncertainty consideration in multiscale local modeling, providing researchers with a robust framework for analyzing and communicating spatial relationships.
 
 
-## Study Metadata
+### Study metadata
 
 - `Key words`: Multiscale local modeling, Visualization, Uncertainty, Reproducibility and Replicability
 - `Subject`: Social and Behavioral Sciences: Geography: Geographic Information Sciences
 - `Date created`: 30-04-2025
 - `Date modified`: 02-05-2025
-- `Spatial Coverage`: Contiguous United States
-- `Spatial Resolution`: Census Tracts
+- `Spatial Coverage`: United States of America (link: [OpenStreetMap USA](https://www.openstreetmap.org/relation/148838)), includes all U.S. counties.
+- `Spatial Resolution`: County-level administrative units (FIPS-based). Data are aggregated to the county level based on U.S. Census geographic definitions.
 - `Spatial Reference System`: WGS 84 - EPSG:4326
 - `Funding Name`: National Science Foundation (NSF) (Methodology, Measuremt & Stats, Human-Envi & Geographical Scis)
 - `Funding Title`: Advancing Methods for Spatial Analysis in Local Modeling
 - `Award info URI`: [web address for award information](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2117455&HistoricalAwards=false)
 - `Award number`: 2117455
+
+
 
 ## Related to
 
