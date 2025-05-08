@@ -1,0 +1,6 @@
+path,name,metadata,description
+data/Election_2000-2020.csv,US presidential election dataset,data/metadata/Election_2000-2020.md,"County-level dataset reporting total votes cast for the Democratic Party during the 2020 U.S. presidential election. Data were compiled by Tony McGovern from publicly available media sources, including Fox News, Politico, and The New York Times. This dataset is made available via GitHub and is not an official government source."
+data/ACS_2020.csv,5 year ACS data ,data/metadata/ACS_2020.md,"The ACS is a nationwide survey that collects and produces information on social, 
+economic, housing, and demographic characteristics about our nation's population every year"
+data/us-data.csv,ACS-data and total votes for the democratic party (standardized), -,derived data used for the R-script
+data/ggp-us-dfii.csv,ggpgam model output data, -,Output of the R-script
