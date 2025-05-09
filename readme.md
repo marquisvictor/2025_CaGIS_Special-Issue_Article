@@ -2,7 +2,7 @@
 
 ## Contributors
 
-- Victor Irekponor\*, vireks@terpmail.umd.edu, @marquisvictor, [ORCID link](https://orcid.org/0000-0002-4836-7923), University of Maryland, College Park, MD, U.S.A
+- Victor Irekponor\*, vireks@terpmail.umd.edu, @marquisvictor, [0000-0002-4836-7923](https://orcid.org/0000-0002-4836-7923), University of Maryland, College Park, MD, U.S.A
 
 - Taylor Oshan, toshan@umd.edu, @TaylorOshan, [0000-0002-0537-2941](https://orcid.org/0000-0002-0537-2941), University of Maryland, College Park, MD, U.S.A
 
