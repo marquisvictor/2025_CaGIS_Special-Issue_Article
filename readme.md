@@ -34,6 +34,7 @@ Spatially varying coefficient (SVC) models are often regarded as â€œbig modelsâ€
 - `OSF Project`: https://doi.org/10.6084/m9.figshare.28599680.v1 
 - `Conference Presentation`: [2024 CaGIS+UCGIS Symposium](https://cagisucgissymposium2024.sched.com/event/1cDyt/lightning-talks-methodological-innovations-in-geospatial-science#:~:text=**Victor%20Irekponor%20and%20Taylor%20Oshan%0AVisualization%20Strategies%20for%20Handling%20Uncertainty%20in%20SVC%20models%3A%20Implications%20for%20Reproducibility%20and%20Replicability)
 - `Publication`: N/A
+- 'Software': [SVC-VIZ](https://github.com/marquisvictor/svc-viz)
 - `...`:
 
 ## Metadata for access
