@@ -15,16 +15,19 @@ To re-run the scripts and notebooks in this repository on your local machine, fo
 ### 1. Create and activate a conda environment
 
 ```bash
-conda create --name viz_env python=3.10
-conda activate viz_env```
+conda create --name viz_env python=3.9
+conda activate viz_env
+```
 
-
-💡 Tip: You can replace viz_env with any environment name you prefer.
-
+> 💡 Tip: You can replace `viz_env` with any environment name you prefer.
 
 ### 2. Install required packages
 
-`pip install -r requirements.txt`
+Use `pip` to install all dependencies listed in `requirements.txt`:
 
+```bash
+pip install -r requirements.txt
+```
 
+You're now ready to run the notebooks and scripts in this repository.
 
