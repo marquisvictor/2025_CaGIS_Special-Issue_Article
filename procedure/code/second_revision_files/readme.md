@@ -45,3 +45,14 @@ These updates reflect changes made in response to reviewer and editor comments.
  Dependent variable + ACS data combined
 
 
+
+## Contact
+
+For questions related to this revision package, please contact:
+
+**Victor Irekponor**  
+[vireks@umd.edu]  
+
+---
+
+Thank you for your interest in replicating and building upon our work.
